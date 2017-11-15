@@ -66,3 +66,13 @@ Also, the "," and "." keys zoom in and out.
 In profile builds, the "?" key toggles spewing profile data in the console window.
 
 Pressing "Esc" will exit the program.
+
+**********************************Notes by Aaron************************************
+
+1. If you found it troublesome to use TBB, just chose ProfileWithoutTbb in the solution
+configuration comboBox, which is on the left of the comboBox with Win32.
+
+2. This solution is successfully compiled using Visual Studio 2010.
+
+**********************************End Notes*****************************************
+
